@@ -15,7 +15,7 @@ Favorite editor: Neovim • First computer: The original Mac
 - 📫 How to reach me:
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/deanandreakis)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/deanandreakis/)
-  <a href="mailto:dean@deanware.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  <a href="mailto:deanandreakis@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 - ⚡ Fun fact: I love to play Chess! Check me out on [lichess.org](https://lichess.org/@/deanandreakis)
 
 #### Technologies I Use:
