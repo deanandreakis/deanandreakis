@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 I love developing for mobile devices, embedded real-time devices, and the web. In my spare time I do freelance iOS and web development. I love learning and applying new technologies. My next adventure is adding some functional programming paradigms to my skill set.
 
-Favorite editor: NeoVim • First computer: The original Mac 
+Favorite editor: Neovim • First computer: The original Mac 
 
 - 🔭 I’m currently working on a leaderboard application using [Node](https://nodejs.org/en/) and [Express](https://expressjs.com)
 - 🌱 I’m currently learning Functional Programming
