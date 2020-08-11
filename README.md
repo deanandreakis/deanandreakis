@@ -26,7 +26,7 @@ Favorite editor: Neovim • First computer: The original Mac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanandreakis&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=35499&layout=compact&theme=dark)](https://stackoverflow.com/users/35499/dean)
+[![Dean Andreakis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=35499&layout=compact&theme=dark)](https://stackoverflow.com/users/35499/dean)
 
 
 
