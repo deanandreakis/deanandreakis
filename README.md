@@ -21,6 +21,9 @@ Favorite editor: Neovim • First computer: The original Mac
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
 
+#### Certifications:
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32391752"/>
+
 [![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanandreakis&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanandreakis&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
