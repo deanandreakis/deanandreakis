@@ -10,7 +10,7 @@ I love developing for mobile devices, embedded real-time devices, and the web. I
 
 Favorite editor: Neovim • First computer: The original Mac 
 
-- 🌱 I’m currently working on my GCP Cloud Architect certification
+- 🌱 I’m recently completed my GCP Cloud Architect certification
 - 📫 How to reach me:
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/deanandreakis)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/deanandreakis/)
