@@ -19,7 +19,7 @@ Favorite editor: Neovim • First computer: The original Mac
 
 #### Technologies I Use:
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
+<img src="https://img.shields.io/badge/RubyOnRails%20-%23323330.svg?&style=for-the-badge&logo=rubyonrails&logoColor=%23CC0000"/><img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=%23CC342D"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
 
 #### Certifications:
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32391752"/>
