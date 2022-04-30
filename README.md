@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I am Dean W. Andreakis. 
 
-I love developing for mobile devices, embedded real-time devices, and the web. In my spare time I do freelance iOS and web development. I love learning and applying new technologies. My next adventure is adding some functional programming paradigms to my skill set.
+I love developing for the web, mobile devices, and embedded real-time devices. In my spare time I do freelance web and iOS development. I love learning and applying new technologies. My next adventure is adding some functional programming paradigms to my skill set.
 
 Favorite editor: Neovim • First computer: The original Mac 
 
@@ -15,11 +15,11 @@ Favorite editor: Neovim • First computer: The original Mac
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/deanandreakis)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/deanandreakis/)
   <a href="mailto:deanandreakis@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-- ⚡ Fun fact: I love to play Chess! Check me out on [lichess.org](https://lichess.org/@/deanandreakis)
+- ⚡ Fun fact: I love to play Chess! Check me out on [chess.com](https://www.chess.com/member/andreakis)
 
 #### Technologies I Use:
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
 
 #### Certifications:
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32391752"/>
