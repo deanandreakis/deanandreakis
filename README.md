@@ -26,7 +26,7 @@ Favorite editor: Neovim • First computer: The original Mac
 
 [![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanandreakis&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanandreakis&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanandreakis&layout=compact&theme=dark&hide=objective-c,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dean Andreakis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=35499&layout=compact&theme=dark)](https://stackoverflow.com/users/35499/dean)
 
