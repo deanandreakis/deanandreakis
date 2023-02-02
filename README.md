@@ -12,7 +12,6 @@ Favorite editor: Neovim • First computer: The original Mac
 
 - 🌱 I recently completed my GCP Cloud Architect certification
 - 📫 How to reach me:
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/deanandreakis)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/deanandreakis/)
   <a href="mailto:deanandreakis@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 - ⚡ Fun fact: I love to play Chess! Check me out on [chess.com](https://www.chess.com/member/andreakis)
