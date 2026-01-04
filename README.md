@@ -18,11 +18,11 @@ Favorite editor: Neovim • First computer: The original Mac
 <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=blue"/><img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=green"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=orange"/><img src="https://img.shields.io/badge/Amazon_Web_Services%20-%23323330.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white"/><img src="https://img.shields.io/badge/GCP%20-%23323330.svg?&style=for-the-badge&logo=google-cloud&logoColor=blue"/>
 
 <!--[![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanandreakis&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanandreakis&layout=compact&theme=dark&hide=objective-c,swift)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dean Andreakis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=35499&layout=compact&theme=dark)](https://stackoverflow.com/users/35499/dean)
-
+-->
 
 
 
