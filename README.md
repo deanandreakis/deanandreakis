@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-### Hi there 👋 I am Dean W. Andreakis. 
+### Hi there 👋 I am Dean Andreakis. 
 
 I love developing for the web, mobile devices, and embedded real-time devices. I am a software architect and full stack developer that enjoys both front end and back end development. In my spare time I do freelance web and mobile development. I love learning and applying new technologies. My next adventure is learning AI/ML.
 
